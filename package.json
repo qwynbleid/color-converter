@@ -1,6 +1,6 @@
 {
   "name": "color-converter-qwynbleid",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "Simple javascript color converter",
   "main": "./src/index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "url": "https://github.com/qwynbleid/color-converter.git"
   },
   "author": "Andrii",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "random-data-generator-qwynbleid": "^1.0.1"
+  }
 }
