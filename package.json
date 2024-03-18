@@ -1,6 +1,6 @@
 {
   "name": "color-converter-qwynbleid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple javascript color converter",
   "main": "./src/index.js",
   "scripts": {
